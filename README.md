@@ -41,5 +41,10 @@ There is no effect on the school type, since the dataframe only includes 10th-12
 #### Refactored
 ![Score By Type](https://user-images.githubusercontent.com/108282027/181391720-21e1fc09-30ca-4ae3-aa84-4b6d24250e68.png)
 ## Summary
-
+### Four changes
+Replacing the 9th grade scores into nan, brought down all the scores from Thomas High School.
+Replacing the school summary code that only includes 10th-12th grade brough the scores back up.
+Thomas High School % of passing math score went from 66.9 to 93.
+% passing reading went from 69.6 to 97.
+overall passing % went from 65-90.
 
